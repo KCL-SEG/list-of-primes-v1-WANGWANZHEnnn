@@ -32,5 +32,5 @@ def primes(number_of_primes):
     return prime_list
 
 # Example usage:
-result = primes(10)
-print(result)  # Output: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
+#result = primes(10)
+#print(result)  # Output: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
